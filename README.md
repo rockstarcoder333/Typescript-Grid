@@ -4,8 +4,6 @@ trNgGrid can be used for simple to mildly complex scenarios where you quickly ne
 
 <b>For more complex scenarios and more fine tuned control, I recommend trying out [Smart Table](http://lorenzofox3.github.io/smart-table-website/) or forking trNgGrid and tweaking it to suit your needs.</b>
 
-#### [Documentation and demo site](http://moonstorm.github.io/trNgGrid/release)
-
 #### Installation
 - `npm install tr-ng-grid --save` or
 - `bower install tr-ng-grid --save` or
